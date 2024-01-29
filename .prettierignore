@@ -1,0 +1,7 @@
+src/assets
+node_modules
+dist
+k8s/charts/*.yaml
+k8s/charts/*.yml
+k8s/charts/**/*.yaml
+k8s/charts/**/*.yml
